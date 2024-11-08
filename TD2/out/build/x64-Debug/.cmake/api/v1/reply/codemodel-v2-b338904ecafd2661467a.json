@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "td-cir2-poo",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TD2_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD2_1-Debug-d166784703396d58c6f9.json",
+					"name" : "TD2_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TD2_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD2_2-Debug-ff909c187fa9f8b33576.json",
+					"name" : "TD2_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TD2_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD2_3-Debug-4e20dd41029ce86bd06c.json",
+					"name" : "TD2_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TD3_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TD3_1-Debug-db035f31ea8a653aa5c2.json",
+					"name" : "TD3_1",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/elian.lemoine/source/repos/td-cir2-poo/TD2/out/build/x64-Debug",
+		"source" : "C:/Users/elian.lemoine/source/repos/td-cir2-poo/TD2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
